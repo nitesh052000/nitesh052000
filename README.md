@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitesh052000
 - 👀 I’m interested in DSA and Development
 - 🌱 Full Stack Developer
-- 📫 How to reach me 2020umt1952@mnit.ac.in
+- 📫 How to reach me niteshkhandelwal0504@gmail.com
 
 
 <!---
