@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niteshkhandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="niteshkhandelwal" />
+  <img src="https://cdn.dribbble.com/userupload/25486408/file/original-4cc71c37bad5de14a549efd0b991b5ce.png?resize=752x&vertical=center" alt="niteshkhandelwal" />
 </p>
 
 ---
