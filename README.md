@@ -16,10 +16,7 @@
 
 ---
 
-###  Featured Projects  
-[![Project A](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectA)](https://github.com/yourusername/projectA)  
-[![Project B](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectB)](https://github.com/yourusername/projectB)  
-[![Project C](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectC)](https://github.com/yourusername/projectC)
+
 
 ---
 
