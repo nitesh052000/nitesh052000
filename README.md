@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitesh Khandelwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India!</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/25486408/file/original-4cc71c37bad5de14a549efd0b991b5ce.png?resize=752x&vertical=center" alt="niteshkhandelwal" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
----
+- 🌱 I’m currently learning **Payment Integration & Authentication**  
+- 💬 Ask me about **React, JavaScript, Material UI, MongoDB**  
+- 📫 How to reach me: **niteshkhandelwal0504@gmail.com**  
+- ⚡ Fun fact: *I love development alongside music 🎵*  
 
-- 🌱 I’m currently learning **Payment Integration & Authentication**
-- 💬 Ask me about **React, JavaScript, Material UI, MongoDB**
-- 📫 How to reach me: **niteshkhandelwal0504@gmail.com**
-- ⚡ Fun fact: *I love development alongside music 🎵*
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://cdn.dribbble.com/userupload/25486408/file/original-4cc71c37bad5de14a549efd0b991b5ce.png?resize=752x&vertical=center" alt="niteshkhandelwal" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
