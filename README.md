@@ -5,10 +5,13 @@
   <tr>
     <td valign="top" width="60%">
 
-- 🌱 I’m currently working on  **Full Stack Developement**  
-- 💬 Ask me about **React, JavaScript, Material UI, MongoDB etc...**  
+- 🌱 I’m currently working on **Full Stack Development projects and DSA**  
+- 📚 I’m learning **Backend Development with Node.js & Express**  
+- 💡 I enjoy building **user-friendly, responsive web applications**  
+- 💬 Ask me about **React, JavaScript, Material UI, MongoDB, and APIs**  
+- 🚀 My goal is to **contribute to Open Source and collaborate on impactful projects**  
 - 📫 How to reach me: **niteshkhandelwal0504@gmail.com**  
-- ⚡ Fun fact: *I love development alongside music 🎵*  
+- ⚡ Fun fact: *I debug better with music in the background 🎵*  
 
     </td>
     <td valign="top" width="40%">
@@ -16,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -40,19 +44,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkhandelwal&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshkhandelwal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh052000&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitesh052000&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimage.png" alt="coding" width="400"/>
-</p>
-
