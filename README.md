@@ -5,8 +5,8 @@
   <tr>
     <td valign="top" width="60%">
 
-- 🌱 I’m currently learning **Payment Integration & Authentication**  
-- 💬 Ask me about **React, JavaScript, Material UI, MongoDB**  
+- 🌱 I’m currently working on  **Full Stack Developement**  
+- 💬 Ask me about **React, JavaScript, Material UI, MongoDB etc...**  
 - 📫 How to reach me: **niteshkhandelwal0504@gmail.com**  
 - ⚡ Fun fact: *I love development alongside music 🎵*  
 
@@ -21,11 +21,11 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://www.linkedin.com/in/nit-khandelwal/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://your-portfolio.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="website" height="30" width="40" />
+<a href="https://portfolio-website-gmt3.onrender.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/726/726107.png" alt="website" height="30" width="40" />
 </a>
 </p>
 
